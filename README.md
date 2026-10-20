@@ -1,6 +1,6 @@
 # Gesture Particle
 
-An interactive 3D particle system controlled entirely by hand gestures — no mouse, no keyboard. Point, swipe, pinch, or open your palm and 10,000 particles respond in real time.
+An interactive 3D particle system controlled entirely by hand gestures — no mouse,no keyboard. Point, swipe, pinch, or open your palm and 10,000 particles respond in real time.
 
 ---
 
@@ -13,7 +13,7 @@ Open your webcam, make a gesture, watch the magic happen.
 | Gesture               | Formation | Feel                                   |
 | --------------------- | --------- | -------------------------------------- |
 | ✊ Fist               | Sphere    | Particles compress into a glowing orb  |
-| 🖐️ Open hand          | Scatter   | Explosion outward into space           |
+| 🖐️ Open hand     R           |
 | ☝️ Point (index only) | Vortex    | Spinning tornado column                |
 | ✌️ Peace sign         | Wave      | Animated ripple surface                |
 | 🤌 Pinch              | Implode   | Everything collapses to your fingertip |
